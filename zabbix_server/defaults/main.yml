@@ -1,0 +1,7 @@
+---
+zabbix_db_user: zabbix
+zabbix_password: 123456
+dbhost: localhost
+dbname: zabbix
+dbuser: zabbix
+dbpasswd: 123456
